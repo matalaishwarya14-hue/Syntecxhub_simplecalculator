@@ -1,0 +1,1 @@
+This project is a simple command-line calculator built using Python. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator accepts user input, processes it, and displays the result in a clear and interactive way.
